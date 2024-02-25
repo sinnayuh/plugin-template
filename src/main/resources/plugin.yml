@@ -1,0 +1,4 @@
+name: 'plugin'
+version: '1.0.0-SNAPSHOT'
+main: codes.sinister.mc.Main
+api-version: '1.20'
